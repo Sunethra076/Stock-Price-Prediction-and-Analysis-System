@@ -1,0 +1,10 @@
+Flask
+Flask-Login
+Flask-SQLAlchemy
+yfinance
+pandas
+plotly
+scikit-learn
+requests
+beautifulsoup4
+textblob
